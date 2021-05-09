@@ -1,4 +1,4 @@
-#Create Space CI/CD to deploy React App in Azure
+## Create Space CI/CD to deploy React App in Azure
 
 This project is focused towards the Continuous integration and continuous delivery of a React app to azure storage account using Space CI/CD.
 
